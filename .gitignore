@@ -1,0 +1,10 @@
+!.gitignore
+!app_intro.py
+!frontend_intro.py
+!requirements.txt
+!intro_model.py
+
+myenv/
+__pycache__/
+*.pyc
+.env
